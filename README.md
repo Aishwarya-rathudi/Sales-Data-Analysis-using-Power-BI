@@ -18,13 +18,13 @@ It helps businesses track **sales trends, profits, discounts, and customer insig
 
 ## 📷 Dashboard Previews
 ### 1️⃣ Sales Overview
-![Sales Overview](dashboard1.png)
+![Sales Overview](dashboard 1.png)
 
 ### 2️⃣ KPIs and Filters
-![KPI Overview](dashboard2.png)
+![KPI Overview](dashboard 2.png)
 
 ### 3️⃣ Transaction Data
-![Transaction Table](dashboard3.png)
+![Transaction Table](dashboard 3.png)
 
 ---
 

@@ -20,13 +20,13 @@ It enables businesses to track **KPIs, discounts, and transaction-level data** e
 
 ## 📷 Dashboard Previews
 ### 1️⃣ Sales Overview
-![Sales Overview]((https://github.com/Aishwarya-rathudi/Sales-Data-Analysis-using-Power-BI/blob/main/dashboard%201.png))
+![Sales Overview]()
 
 ### 2️⃣ KPIs and Filters
 ![KPI Overview]()
 
 ### 3️⃣ Transaction Data
-![Transaction Table](dashboard 3.png)
+![Transaction Table]()
 
 ---
 

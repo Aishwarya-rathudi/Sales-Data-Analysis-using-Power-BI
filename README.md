@@ -18,7 +18,7 @@ It helps businesses track **sales trends, profits, discounts, and customer insig
 
 ## 📷 Dashboard Previews
 ### 1️⃣ Sales Overview
-![Sales Overview](Power BI projects\Sales Data Analysis using Power BI.pbix)
+![Sales Overview](images/dashboard1.png)
 
 ### 2️⃣ KPIs and Filters
 ![KPI Overview](images/dashboard2.png)

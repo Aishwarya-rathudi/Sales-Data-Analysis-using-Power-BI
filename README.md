@@ -26,7 +26,7 @@ It enables businesses to track **KPIs, discounts, and transaction-level data** e
 ![KPI Overview]()
 
 ### 3️⃣ Transaction Data
-![Transaction Table]()
+![Transaction Table](dashboard 3.png)
 
 ---
 

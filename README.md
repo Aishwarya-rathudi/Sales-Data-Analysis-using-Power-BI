@@ -1,10 +1,6 @@
 # 📊 Sales Analysis Dashboard (Power BI)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![GitHub repo size](https://img.shields.io/github/repo-size/<YourUserName>/Sales-Data-Analysis-using-Power-BI?style=for-the-badge&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/<YourUserName>/Sales-Data-Analysis-using-Power-BI?style=for-the-badge&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/<YourUserName>/Sales-Data-Analysis-using-Power-BI?style=for-the-badge&color=green)
-![License](https://img.shields.io/github/license/<YourUserName>/Sales-Data-Analysis-using-Power-BI?style=for-the-badge&color=orange)
 
 This project provides an **interactive Power BI dashboard** to analyze sales performance, promotions, profit trends, and customer transactions.  
 It enables businesses to track **KPIs, discounts, and transaction-level data** effectively.
@@ -19,18 +15,6 @@ It enables businesses to track **KPIs, discounts, and transaction-level data** e
 - **KPI Cards** – Total Sales, Profit, and Quantity Sold.
 - **Interactive Filters** – Date range, product, promotion, and customer filters.
 - **Detailed Transaction Table** – Order-level details with discounts, profit, and units sold.
-
----
-
-## 🎥 Demo Video / GIF
-
-👉 Watch the dashboard in action:  
-
-[![Watch the video](https://img.shields.io/badge/YouTube-Click%20Here-red?style=for-the-badge&logo=youtube)](https://youtu.be/your-demo-video-link)  
-
-Or add a GIF preview here:  
-
-![Dashboard Demo](images/demo.gif)
 
 ---
 

@@ -20,16 +20,16 @@ It enables businesses to track **KPIs, discounts, and transaction-level data** e
 
 ## 📷 Dashboard Previews
 ### 1️⃣ Sales Overview
-![Sales Overview]
+
 <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/c8b8b7f1-791f-4cae-8f16-5a888b0b77fd" />
 
 ### 2️⃣ KPIs and Filters
-![KPI Overview]
+
 <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/ff6a042a-a1d6-49b2-929b-668b425d7506" />
 
 
 ### 3️⃣ Transaction Data
-![Transaction Table]()
+
 <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/138263ad-4beb-4a27-bf9c-214cd985c02a" />
 
 ---

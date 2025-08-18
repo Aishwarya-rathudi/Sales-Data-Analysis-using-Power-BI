@@ -25,6 +25,7 @@ It enables businesses to track **KPIs, discounts, and transaction-level data** e
 
 ### 2️⃣ KPIs and Filters
 ![KPI Overview]
+<img width="1398" height="790" alt="Image" src="https://github.com/user-attachments/assets/ff6a042a-a1d6-49b2-929b-668b425d7506" />
 
 
 ### 3️⃣ Transaction Data

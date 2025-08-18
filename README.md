@@ -30,7 +30,7 @@ It enables businesses to track **KPIs, discounts, and transaction-level data** e
 
 ### 3️⃣ Transaction Data
 ![Transaction Table]()
-<img width="1363" height="763" alt="Image" src="https://github.com/user-attachments/assets/138263ad-4beb-4a27-bf9c-214cd985c02a" />
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/138263ad-4beb-4a27-bf9c-214cd985c02a" />
 
 ---
 
